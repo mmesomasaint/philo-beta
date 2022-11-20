@@ -1,0 +1,21 @@
+{
+  "name": "landing-page-back",
+  "version": "1.0.0",
+  "description": "Back-end of a landing page.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon src/index.js"
+  },
+  "author": "Mmesoma Saint",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0",
+    "validator": "^13.7.0"
+  }
+}
