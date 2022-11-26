@@ -8,7 +8,7 @@ const errorManager = require('./error-manager')
 // Initialize server
 const app = express()
 const router = express.Router()
-app.use(express.static('../public'))
+app.use(express.static(__dirname + '/public'));
 
 // Connect to mongodb
 mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true })
