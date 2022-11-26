@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c47882d.css",
+    "main.js": "/static/js/main.0f2109d7.js",
+    "static/js/787.f4de0b81.chunk.js": "/static/js/787.f4de0b81.chunk.js",
+    "static/media/edward-cisneros.jpg": "/static/media/edward-cisneros.16242a1ff995a7f6461a.jpg",
+    "static/media/dark-blue-futuristic-bg.jpg": "/static/media/dark-blue-futuristic-bg.260cdbd28bb0cc4a646e.jpg",
+    "static/media/progress-group.jpg": "/static/media/progress-group.63f8c0117a39ec3c2111.jpg",
+    "static/media/christian-buehner.jpg": "/static/media/christian-buehner.9139d0debbc08d4df402.jpg",
+    "static/media/harps-joseph.jpg": "/static/media/harps-joseph.9327a4a842dbbe9e1a75.jpg",
+    "static/media/ayo-ogunseinde.jpg": "/static/media/ayo-ogunseinde.be99b5f496d9f6e405f1.jpg",
+    "static/media/traxer.jpg": "/static/media/traxer.a73d5debf8dfedc34a4c.jpg",
+    "static/media/aleksandar-popovski.jpg": "/static/media/aleksandar-popovski.e4d3a373c607c4f71f01.jpg",
+    "static/media/may-gauthier.jpg": "/static/media/may-gauthier.95b4120aba2c60d8faa5.jpg",
+    "static/media/grow-own-pace.jpg": "/static/media/grow-own-pace.dbc0e9c86c62f3e83029.jpg",
+    "static/media/futuristic-3d-design.jpg": "/static/media/futuristic-3d-design.c6d677e4660c122fb72c.jpg",
+    "static/media/christopher-campbell.jpg": "/static/media/christopher-campbell.3172159aeb1632762540.jpg",
+    "static/media/one-to-one-xp.jpg": "/static/media/one-to-one-xp.28bfceea0f15a9f07256.jpg",
+    "static/media/logo.png": "/static/media/logo.48971e2c2ec6059346c0.png",
+    "index.html": "/index.html",
+    "main.7c47882d.css.map": "/static/css/main.7c47882d.css.map",
+    "main.0f2109d7.js.map": "/static/js/main.0f2109d7.js.map",
+    "787.f4de0b81.chunk.js.map": "/static/js/787.f4de0b81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c47882d.css",
+    "static/js/main.0f2109d7.js"
+  ]
+}
